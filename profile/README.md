@@ -1,5 +1,96 @@
 # YU LIKELION
 
+### 📌 Staff
+<table border="1">
+  <tr>
+      <td rowspan="2" align="center">
+        10th
+      </td>
+      <td align="center">
+        대표
+      </td>
+      <td align="center">
+        FE
+      </td>
+      <td colspan="3" align="center">
+        BE
+      </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/alwaysbemyday1"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/80505979?v=4"/></a>
+            <br />
+            <a href="https://github.com/alwaysbemyday1">alwaysbemyday1</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/myoneee"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79561838?v=4"/></a>
+            <br />
+            <a href="https://github.com/myoneee">myoneee</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/juoonge"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/67726233?v=4"/></a>
+            <br />
+            <a href="https://github.com/juoonge">juoonge</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/WisdomAlwaysWins"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/113286561?v=4"/></a>
+            <br />
+            <a href="https://github.com/WisdomAlwaysWins">WisdomAlwaysWins</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/minsol1"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81753858?v=4"/></a>
+            <br />
+            <a href="https://github.com/minsol1">minsol1</a>
+        </td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center">
+        11th
+      </td>
+      <td align="center">
+        대표
+      </td>
+      <td align="center">
+        UX/UI
+      </td>
+      <td align="center">
+        FE
+      </td>
+      <td colspan="2" align="center">
+        BE
+      </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/psychology50"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/96044622?v=4"/></a>
+            <br />
+            <a href="https://github.com/psychology50">psychology50</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/TaeKyuIm"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/78799904?v=4"/></a>
+            <br />
+            <a href="https://github.com/TaeKyuIm">TaeKyuIm</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/heejinnn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/103185302?v=4"/></a>
+            <br />
+            <a href="https://github.com/heejinnn">heejinnn</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/J0YERIM"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/96174711?v=4"/></a>
+            <br />
+            <a href="https://github.com/J0YERIM">J0YERIM</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/AHNDOIL"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/103185987?v=4"/></a>
+            <br />
+            <a href="https://github.com/AHNDOIL">AHNDOIL</a>
+        </td>
+    </tr>
+</table>
+
+<br/>
+
 ### 📌 Branch Naming Convention
 ```
 main ── develop ── feature
