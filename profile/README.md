@@ -9,10 +9,10 @@
       <td align="center">
         대표
       </td>
-      <td align="center">
+      <td colspan="2" align="center">
         FE
       </td>
-      <td colspan="3" align="center">
+      <td colspan="2" align="center">
         BE
       </td>
     </tr>
@@ -28,14 +28,14 @@
             <a href="https://github.com/myoneee">myoneee</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/juoonge"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/67726233?v=4"/></a>
-            <br />
-            <a href="https://github.com/juoonge">juoonge</a>
-        </td>
-        <td align="center" width="130px">
             <a href="https://github.com/WisdomAlwaysWins"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/113286561?v=4"/></a>
             <br />
             <a href="https://github.com/WisdomAlwaysWins">WisdomAlwaysWins</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/juoonge"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/67726233?v=4"/></a>
+            <br />
+            <a href="https://github.com/juoonge">juoonge</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/minsol1"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81753858?v=4"/></a>
