@@ -87,6 +87,82 @@
             <a href="https://github.com/AHNDOIL">AHNDOIL</a>
         </td>
     </tr>
+  <tr>
+      <td rowspan="4" align="center">
+        12th
+      </td>
+      <td align="center">
+        대표
+      </td>
+      <td align="center">
+        UX/UI
+      </td>
+      <td colspan="3" align="center">
+        FE
+      </td>
+    </tr>
+  <tr height="140px">
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+    </tr>
+  <tr>
+      <td colspan="3" align="center">
+        FE
+      </td>
+      <td colspan="2" align="center">
+        BE
+      </td>
+    </tr>
+  <tr height="140px">
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+        <td align="center" width="130px">
+            <a href=""><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href=""></a>
+        </td>
+    </tr>
 </table>
 
 <br/>
