@@ -88,16 +88,16 @@
         </td>
     </tr>
   <tr>
-      <td rowspan="4" align="center">
+      <td rowspan="6" align="center">
         12th
       </td>
       <td align="center">
         대표
       </td>
-      <td align="center">
+      <td colspan="2" align="center">
         UX/UI
       </td>
-      <td colspan="3" align="center">
+      <td colspan="2" align="center">
         FE
       </td>
     </tr>
@@ -112,6 +112,11 @@
             <br />
             <a href="https://github.com/JunWooHeo00">JunWooHeo00</a>
         </td>
+            <td align="center" width="130px">
+            <a href="https://github.com/phenomenonk"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/127971110?v=4"/></a>
+            <br />
+            <a href="https://github.com/phenomenonk">phenomenonk</a>
+        </td>
         <td align="center" width="130px">
             <a href="https://github.com/yanni13"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/122153297?v=4"/></a>
             <br />
@@ -122,21 +127,21 @@
             <br />
             <a href="https://github.com/soooheeee">soooheeee</a>
         </td>
+    </tr>
+  <tr>
+      <td colspan="4" align="center">
+        FE
+      </td>
+      <td colspan="1" align="center">
+        BE
+      </td>
+    </tr>
+  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/YoonKeumJae"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79782610?v=4"/></a>
             <br />
             <a href="https://github.com/YoonKeumJae">YoonKeumJae</a>
         </td>
-    </tr>
-  <tr>
-      <td colspan="3" align="center">
-        FE
-      </td>
-      <td colspan="2" align="center">
-        BE
-      </td>
-    </tr>
-  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/JJyen"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129050370?v=4"/></a>
             <br />
@@ -157,10 +162,33 @@
             <br />
             <a href="https://github.com/asn6878">asn6878</a>
         </td>
+    </tr>
+  <tr>
+      <td align="center">
+        BE
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+    <td align="center">
+      </td>
+    </tr>
+  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/Jaewon-pro"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/53341392?v=4"/></a>
             <br />
             <a href="https://github.com/Jaewon-pro">Jaewon-pro</a>
+        </td>
+        <td align="center" width="130px">
+        </td>
+        <td align="center" width="130px">
+        </td>
+        <td align="center" width="130px">
+        </td>
+        <td align="center" width="130px">
         </td>
     </tr>
 </table>
