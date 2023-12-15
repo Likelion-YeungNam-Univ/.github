@@ -113,9 +113,9 @@
             <a href="https://github.com/JunWooHeo00">허준우</a>
         </td>
             <td align="center" width="130px">
-            <a href="https://github.com/phenomenonk"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/127971110?v=4"/></a>
+            <a href="https://github.com/namhyeonzzang"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129056409?v=4"/></a>
             <br />
-            <a href="https://github.com/phenomenonk">김남현</a>
+            <a href="https://github.com/namhyeonzzang">김남현</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/yanni13"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/122153297?v=4"/></a>
