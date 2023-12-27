@@ -158,9 +158,9 @@
             <a href="https://github.com/dekoms">이재훈</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/asn6878"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79460319?v=4"/></a>
+            <a href="https://github.com/ches0703"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/104610261?v=4"/></a>
             <br />
-            <a href="https://github.com/asn6878">안성윤</a>
+            <a href="https://github.com/ches0703">최은성</a>
         </td>
     </tr>
   <tr>
@@ -176,6 +176,11 @@
     </tr>
   <tr height="140px">
         <td align="center" width="130px">
+            <a href="https://github.com/asn6878"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79460319?v=4"/></a>
+            <br />
+            <a href="https://github.com/asn6878">안성윤</a>
+        </td>
+        <td align="center" width="130px">
             <a href="https://github.com/Jaewon-pro"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/53341392?v=4"/></a>
             <br />
             <a href="https://github.com/Jaewon-pro">이재원</a>
@@ -184,8 +189,6 @@
             <a href="https://github.com/arty314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129061028?v=4"/></a>
             <br />
             <a href="https://github.com/arty314">남은주</a>    
-        </td>
-        <td align="center" width="130px">
         </td>
         <td align="center" width="130px">
         </td>
