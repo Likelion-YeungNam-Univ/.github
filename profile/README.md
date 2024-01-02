@@ -129,11 +129,8 @@
         </td>
     </tr>
   <tr>
-      <td colspan="4" align="center">
+      <td colspan="5" align="center">
         FE
-      </td>
-      <td colspan="1" align="center">
-        BE
       </td>
     </tr>
   <tr height="140px">
