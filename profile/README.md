@@ -118,36 +118,29 @@
             <a href="https://github.com/namhyeonzzang">김남현</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/yanni13"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/122153297?v=4"/></a>
-            <br />
-            <a href="https://github.com/yanni13">아우신얀</a>
-        </td>
-        <td align="center" width="130px">
             <a href="https://github.com/soooheeee"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129060841?v=4"/></a>
             <br />
             <a href="https://github.com/soooheeee">권소희</a>
         </td>
-    </tr>
-  <tr>
-      <td colspan="5" align="center">
-        FE
-      </td>
-    </tr>
-  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/YoonKeumJae"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79782610?v=4"/></a>
             <br />
             <a href="https://github.com/YoonKeumJae">윤금재</a>
         </td>
+    </tr>
+  <tr>
+      <td colspan="3" align="center">
+        FE
+      </td>
+      <td colspan="2" align="center">
+        BE
+      </td>
+    </tr>
+  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/JJyen"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129050370?v=4"/></a>
             <br />
             <a href="https://github.com/JJyen">정예은</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/h2kangrok"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129154834?v=4"/></a>
-            <br />
-            <a href="https://github.com/h2kangrok">윤강록</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/dekoms"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/108325028?v=4"/></a>
@@ -159,19 +152,6 @@
             <br />
             <a href="https://github.com/ches0703">최은성</a>
         </td>
-    </tr>
-  <tr>
-      <td colspan="2" align="center">
-        BE
-      </td>
-      <td align="center">
-      </td>
-      <td align="center">
-      </td>
-    <td align="center">
-      </td>
-    </tr>
-  <tr height="140px">
         <td align="center" width="130px">
             <a href="https://github.com/asn6878"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79460319?v=4"/></a>
             <br />
@@ -181,10 +161,6 @@
             <a href="https://github.com/arty314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129061028?v=4"/></a>
             <br />
             <a href="https://github.com/arty314">남은주</a>    
-        </td>
-        <td align="center" width="130px">
-        </td>
-        <td align="center" width="130px">
         </td>
     </tr>
 </table>
