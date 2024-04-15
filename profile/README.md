@@ -158,9 +158,6 @@
             <a href="https://github.com/asn6878">안성윤</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/arty314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129061028?v=4"/></a>
-            <br />
-            <a href="https://github.com/arty314">남은주</a>    
         </td>
     </tr>
 </table>
