@@ -222,7 +222,7 @@
       <a href="https://github.com/hky035">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/128910345?v=4"/>
         <br />
-        허기영
+        허기영
       </a>
     </td>
     <td colspan="4"></td>
