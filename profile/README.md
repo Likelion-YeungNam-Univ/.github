@@ -214,10 +214,17 @@
     </td>
   </tr>
   <tr>
-    <td colspan="1" align="center">BE</td>
+    <td colspan="2" align="center">BE</td>
     <td colspan="4"></td>
   </tr>
   <tr height="140px">
+    <td align="center" width="130px">
+      <a href="https://github.com/mingking2">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88701979?v=4"/>
+        <br />
+        주민기
+      </a>
+    </td>
     <td align="center" width="130px">
       <a href="https://github.com/hky035">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/128910345?v=4"/>
@@ -225,6 +232,5 @@
         허기영
       </a>
     </td>
-    <td colspan="4"></td>
   </tr>
 </table>
