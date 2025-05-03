@@ -167,7 +167,13 @@
         안성윤
       </a>
     </td>
-    <td align="center" width="130px"></td>
+    <td align="center" width="130px">
+      <a href="https://github.com/jinlee1703">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68031450?v=4"/>
+        <br />
+        이진우
+      </a>
+    </td>
   </tr>
 
   <tr>
