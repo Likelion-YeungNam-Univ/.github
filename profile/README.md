@@ -238,5 +238,90 @@
         허기영
       </a>
     </td>
+    <td colspan="3" align="center" width="130px">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td rowspan="4" align="center">14th</td>
+    <td align="center">대표</td>
+    <td colspan="2" align="center">UX/UI</td>
+    <td colspan="2" align="center">FE</td>
+  </tr>
+  <tr height="140px">
+    <td align="center" width="130px">
+      <a href="https://github.com/lnahyun">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/164346626?v=4"/>
+        <br />
+        이나현
+      </a>
+    </td>
+    <td align="center" width="130px">
+        <a href="https://github.com/kimsoyun112">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/205300711?v=4"/>
+        <br />
+        김소윤
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/choibyeoli">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/35758306?v=4"/>
+        <br />
+        최선우
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/vni911">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/84740013?v=4"/>
+        <br />
+        김정운
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/RSH0770">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/162142840?v=4"/>
+        <br />
+        류승현
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">FE</td>
+    <td colspan="2" align="center">BE</td>
+    <td colspan="1"></td>
+  </tr>
+  <tr height="140px">
+    <td align="center" width="130px">
+      <a href="https://github.com/Limtaehyeon">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/165642906?v=4"/>
+        <br />
+        임태현
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/chominseo0723">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/165632548?v=4"/>
+        <br />
+        조민서
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/eastminnn">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/80417179?v=4"/>
+        <br />
+        김동민
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/chlwjd0803">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/160298290?v=4"/>
+        <br />
+        최정
+      </a>
+    </td>
+    <td align="center" width="130px">
+      </a>
+    </td>
   </tr>
 </table>
